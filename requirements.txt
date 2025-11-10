@@ -3,3 +3,7 @@ python-dotenv>=1.0.0
 crewai>=0.175.0
 crewai-tools>=0.69.0
 pydantic>=2.6.1
+
+
+
+
