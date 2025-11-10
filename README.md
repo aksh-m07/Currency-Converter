@@ -1,5 +1,7 @@
 # AI Currency Converter with CrewAI
 
+## About
+
 A smart currency conversion tool built using CrewAI that converts between different currencies using real-time exchange rates.
 
 ## Features
@@ -155,7 +157,7 @@ Agent: Task completed successfully!
 
 ---
 
-**Happy converting! 💱✨**
+
 
 
 
